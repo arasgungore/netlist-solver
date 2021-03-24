@@ -1,10 +1,10 @@
 %% Main Program
-clear, clc, close all       %clear the workspace, clear the command window, and then close any open figures
+clear, clc, close all       % clear the workspace, clear the command window, and then close any open figures
 
-help nodeVoltageMethod      %get information about the "nodeVoltageMethod" function
+help nodeVoltageMethod      % get information about the "nodeVoltageMethod" function
 
 
-filename = 'input_1.txt';   %name of the input file that contains the circuit data in netlist format
+filename = 'input_1.txt';   % name of the input file that contains the circuit data in netlist format
 node_voltages = nodeVoltageMethod(filename)
 
 
@@ -12,14 +12,14 @@ filename = input('Enter directory/name of the input file including extension (''
 node_voltages = nodeVoltageMethod(filename)
 
 %% Bonus Program
-clear, clc, close all       %clear the workspace, clear the command window, and then close any open figures
+clear, clc, close all       % clear the workspace, clear the command window, and then close any open figures
 
-help plotPowerOverLoadResistance    %get information about the "plotPowerOverLoadResistance" function
+help plotPowerOverLoadResistance    % get information about the "plotPowerOverLoadResistance" function
 
 
-filename = 'input_1.txt';           %name of the input file that contains the circuit data in netlist format
-R_loadname = 'R2';                  %chooses R2 as load resistor
-R_values = linspace(0, 20, 200);    %assigns 200 resistance values ranging from 0 to 20 Ohm to R2 which we are going to plot
+filename = 'input_1.txt';           % name of the input file that contains the circuit data in netlist format
+R_loadname = 'R2';                  % chooses R2 as load resistor
+R_values = linspace(0, 20, 200);    % assigns 200 resistance values ranging from 0 to 20 Ohm to R2 which we are going to plot
 plotPowerOverLoadResistance(filename, R_loadname, R_values)
 
 
