@@ -10,9 +10,9 @@ matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
 # Screenshots
 
 <p align="left">
-    <img alt="Screenshot" src="https://github.com/arasgungore/netlist-solver/blob/main/Screenshots/1.jpg" width="600">
+    <img alt="Screenshot" src="https://github.com/arasgungore/netlist-solver/blob/main/Screenshots/1.jpg" width="500">
     <img alt="Screenshot" src="https://github.com/arasgungore/netlist-solver/blob/main/Screenshots/2.jpg" width="300">
-    <img alt="Screenshot" src="https://github.com/arasgungore/netlist-solver/blob/main/Screenshots/3.jpg" width="600">
+    <img alt="Screenshot" src="https://github.com/arasgungore/netlist-solver/blob/main/Screenshots/3.jpg" width="500">
     <img alt="Screenshot" src="https://github.com/arasgungore/netlist-solver/blob/main/Screenshots/4.jpg" width="300">
 </p>
 
