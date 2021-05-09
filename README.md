@@ -4,7 +4,7 @@ A MATLAB project that uses Modified Node Analysis algorithm to calculate the nod
 
 
 
-## Run on terminal
+# Run on terminal
 
 ```sh
 matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
@@ -23,10 +23,9 @@ matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
 
 
 
-## Author
+# Author
 
 👤 **Aras Güngöre**
 
 * LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
 * Github: [@arasgungore](https://github.com/arasgungore)
-* HackerRank: [@arasgungore](https://www.hackerrank.com/arasgungore)
