@@ -1,6 +1,6 @@
 # netlist-solver
 
-A MATLAB project that uses Modified Node Analysis algorithm to calculate the node voltages of any given netlist circuit that doesn't contain dependent sources. Another module is added which chooses a load resistor from the given netlist circuit, plots power dissipation over load resistance, and displays the maximum power and corresponding resistance.
+A MATLAB project that uses Modified Node Analysis algorithm to calculate the node voltages of any analog circuit without dependent sources given in netlist format. A module is added which sweeps the resistance of a load resistor, plots power dissipation as a function of load resistance, and finds the resistance value corresponding to maximum power.
 
 
 
