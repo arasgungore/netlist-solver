@@ -28,4 +28,4 @@ matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
 👤 **Aras Güngöre**
 
 * LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* Github: [@arasgungore](https://github.com/arasgungore)
+* GitHub: [@arasgungore](https://github.com/arasgungore)
