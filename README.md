@@ -4,7 +4,7 @@ A MATLAB project that uses modified nodal analysis (MNA) algorithm to calculate 
 
 
 
-# Run on terminal
+## Run on terminal
 
 ```sh
 matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
@@ -12,7 +12,7 @@ matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
 
 
 
-# Screenshots
+## Screenshots
 
 <p align="left">
     <img alt="Screenshot" src="https://github.com/arasgungore/netlist-solver/blob/main/Screenshots/1.jpg" width="520">
@@ -23,7 +23,7 @@ matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
 
 
 
-# Author
+## Author
 
 👤 **Aras Güngöre**
 
