@@ -6,7 +6,7 @@ This project was assigned for the Computer Tools for Electrical Engineers (EE 24
 
 
 
-## Run on terminal
+## Run on Terminal
 
 ```sh
 matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
