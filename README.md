@@ -1,8 +1,8 @@
 # netlist-solver
 
-A MATLAB project that uses modified nodal analysis (MNA) algorithm to calculate the node voltages of any analog circuit without dependent sources given in netlist format. Added a module which sweeps the resistance of a load resistor, plots power dissipation as a function of load resistance, and finds the resistance value corresponding to maximum power.
+A MATLAB project that uses modified nodal analysis (MNA) algorithm to calculate the node voltages of any analog circuit without dependent sources given in netlist format. Added a module that sweeps the resistance of a load resistor, plots power dissipation as a function of load resistance, and finds the resistance value corresponding to maximum power.
 
-This project was assigned for the Computer Tools for Electrical Engineers (EE 241) course on Fall 2020-21 semester.
+This project was assigned for the Computer Tools for Electrical Engineers (EE 241) course in the Fall 2020-21 semester.
 
 
 
